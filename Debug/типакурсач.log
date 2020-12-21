@@ -1,0 +1,865 @@
+﻿  Autoriz.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\usersfood.h(262,1): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17,47): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(60,10): error C2039: "SuspendLayout": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(135,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(136,10): error C2039: "AutoScaleMode": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(137,10): error C2039: "BackgroundImage": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(138,10): error C2039: "BackgroundImageLayout": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(139,10): error C2039: "ClientSize": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(140,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(141,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(142,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(143,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(144,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(145,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(146,10): error C2039: "Controls": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(147,10): error C2039: "Font": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(148,10): error C2039: "Margin": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(149,10): error C2039: "Name": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(150,10): error C2039: "StartPosition": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(151,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(151,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(151,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(151,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(152,10): error C2039: "Load": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(153,10): error C2039: "ResumeLayout": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(154,10): error C2039: "PerformLayout": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(163,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(164,2): error C2065: password: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(175,22): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(175,49): error C2065: password: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(176,52): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(180,14): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(185,11): error C2039: "AddOwnedForm": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(189,14): error C2039: "AddOwnedForm": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(194,11): error C2039: "AddOwnedForm": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(199,14): error C2039: "Hide": не является членом "типакурсач::Autoriz".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(17): message : см. объявление "типакурсач::Autoriz"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(199,1): error C3861: Hide: идентификатор не найден
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(203,1): error C2665: System::Windows::Forms::MessageBox::Show: ни одна из 21 перегрузок не может преобразовать все типы аргументов
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(203): message : может быть "System::Windows::Forms::DialogResult System::Windows::Forms::MessageBox::Show(System::Windows::Forms::IWin32Window ^,System::String ^,System::String ^,System::Windows::Forms::MessageBoxButtons,System::Windows::Forms::MessageBoxIcon)"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(203): message : или       "System::Windows::Forms::DialogResult System::Windows::Forms::MessageBox::Show(System::String ^,System::String ^,System::Windows::Forms::MessageBoxButtons,System::Windows::Forms::MessageBoxIcon,System::Windows::Forms::MessageBoxDefaultButton)"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\Autoriz.h(203,1): message : при попытке сопоставить список аргументов "(типакурсач::Autoriz ^, const char [37], const char [10], System::Windows::Forms::MessageBoxButtons, System::Windows::Forms::MessageBoxIcon)"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(413,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(433,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\usersfood.h(262,1): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(413,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(433,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\MyForm.cpp(10,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Registration.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\usersfood.h(262,1): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(413,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(433,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  change_login.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+  change_pass.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+  inf_for_registr.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\usersfood.h(262,1): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(403,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(404,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(405,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(406,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(413,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(424,62): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(425,63): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(426,65): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,1): error C2664: "std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)": невозможно преобразовать аргумент 1 из "System::String ^" в "System::String ^const &"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(427,69): message : Объект из кучи heap (член управляемого класса) не может быть преобразован в собственную ссылку
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\msclr\marshal_cppstd.h(33,20): message : см. объявление "msclr::interop::marshal_as"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\inf_for_registr.h(433,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  personal_page1.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\usersfood.h(262,1): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  настройки.cpp
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(49,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(138,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(139,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(140,10): error C2039: "BackColor": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(141,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(142,10): error C2039: "ClientSize": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(143,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(144,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(145,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(146,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(147,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(148,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(149,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(150,10): error C2039: "Controls": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(151,10): error C2039: "Name": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(152,10): error C2039: "StartPosition": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(153,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(154,10): error C2039: "Load": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(155,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(156,10): error C2039: "PerformLayout": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(161,3): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(178,25): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(180,99): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13,53): error C2504: Registration: не определен базовый класс
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,12): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(27,1): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(56,10): error C2039: "SuspendLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(156,10): error C2039: "AutoScaleDimensions": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(157,10): error C2039: "AutoScaleMode": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(158,10): error C2039: "BackColor": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(159,10): error C2039: "BackgroundImage": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(160,10): error C2039: "ClientSize": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(161,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(162,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(163,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(164,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(165,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(166,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(167,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(168,10): error C2039: "Controls": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(169,10): error C2039: "Name": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(170,10): error C2039: "StartPosition": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2872: Text: неоднозначный символ
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : может быть "System::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): message : или       "System::Drawing::Text"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(171,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(172,10): error C2039: "Load": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(173,10): error C2039: "ResumeLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(174,10): error C2039: "PerformLayout": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(182,2): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(194,24): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(195,97): error C2065: login: необъявленный идентификатор
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(309,7): error C2039: "Show": не является членом "типакурсач::change_pass".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_pass.h(10): message : см. объявление "типакурсач::change_pass"
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\настройки.h(316,6): error C2039: "Show": не является членом "типакурсач::change_login".
+C:\Users\anast\Desktop\типакурсачвидео\типакурсач\change_login.h(13): message : см. объявление "типакурсач::change_login"
+  Создание кода...
